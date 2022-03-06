@@ -1,7 +1,11 @@
 # SOC Infrastructure Horizontal Committee Charter
 
-The information in this file should be created as part of the group formation and approved by your sponsoring group.  See the [Chairs Best Practices policy](https://docs.google.com/document/d/1rtXskVd7YyFq74tQ2OrInyM_-OQa228R5UZs5Pm3Vz0/) for more details.
+The objective of the SoC HC is to identify high priority gaps in RISC-V technology (HW and/or SW) portfolio to build SoCs targeting various industry segments from embedded to datacenter and beyond. SoC HC aims to define right system level HW/SW contract to enable these technologies.
 
-A good Task Group (TG) charter describes how it achieves filling in a gap defined by the Special Interest Group (SIG) or Committee that spawned it (directly or dotted line). It lists the specific small set of  deliverables it will deliver.
+The SoC HC will work collaboratively with other HCs, SIGs and TGs that are already working on addressing these gaps or are chartered to work on the domain in which the gap exists. 
 
-A SIG is an extension of a Committee, in that its only deliverables are strategy, gaps, and prioritizations, and helping spawn other SIGs or TGs to fill the gaps. A good SIG charter spells out the small set of topic areas their strategy will address along with its responsibilities as laid out in this bullet.
+Where unaddressed gaps exist, the HC will form SIGs to define the strategy for addressing the gaps and use the recommendation of the SIGs to form TGs to define ISA/Non-ISA specs where appropriate and to define guidelines/requirements specifications where defining a ISA/Non-ISA specification not appropriate.
+
+By its nature, SoC HC will overlap in topic areas with other committees and some topics will be direct line and some will be dotted line in a matrixed fashion. 
+
+The Goal of SoC is prioritize the work and try to expedite the work. The SoC HC will track development milestones, deliverables, help find resources and breakdown barriers/roadblocks for the SIG and TGs it sponsors.
